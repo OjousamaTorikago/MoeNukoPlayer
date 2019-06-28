@@ -1,0 +1,13 @@
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\bin\Debug\MoeNukoStudio.exe.config
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\bin\Debug\MoeNukoStudio.exe
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\bin\Debug\MoeNukoStudio.pdb
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.csprojAssemblyReference.cache
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\Interop.WMPLib.dll
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.csproj.ResolveComReference.cache
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.Form1.resources
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.Properties.Resources.resources
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.csproj.GenerateResource.cache
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.csproj.CoreCompileInputs.cache
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.exe
+C:\Users\170586\source\repos\MoeNukoStudio\MoeNukoStudio\obj\Debug\MoeNukoStudio.pdb
